@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[moountain]]></title>
+        <description><![CDATA[moountain]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 09:02:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Plastic Semiotics]]></title>
+            <description><![CDATA[<article><h1>Plastic Semiotics</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25c53232-42e4-47fa-bff3-310f91a00036.gif"></article>]]></description>
+            <link>undefinedplastic-semiotics/index.html</link>
+            <guid isPermaLink="false">fb866d3d-0db6-4e3f-9bff-b4b690283dea</guid>
+            <pubDate>Fri, 23 Oct 2015 09:01:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
