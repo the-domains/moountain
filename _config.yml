@@ -1,0 +1,23 @@
+name: moountain
+favicon: null
+layout_spectrum: 0.32612937269732356
+typography_spectrum: 0.6181167101021856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4208165970630944
+  lightness: 0.6295231906697154
+  saturation: 0.9377433860208839
+  rhythmicContrast: 0.05745845683850348
+purpose: []
