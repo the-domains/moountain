@@ -1,7 +1,7 @@
 name: moountain
 favicon: null
-layout_spectrum: 0.32612937269732356
-typography_spectrum: 0.6181167101021856
+layout_spectrum: 1
+typography_spectrum: 0.92413
 title: Moountain
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0.875
-  lightness: 0.6295231906697154
-  saturation: 0.9377433860208839
-  rhythmicContrast: 0.05745845683850348
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
