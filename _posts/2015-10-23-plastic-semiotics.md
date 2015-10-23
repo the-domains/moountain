@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-23T09:01:36.548Z'
-dateModified: '2015-10-23T09:00:17.862Z'
+datePublished: '2015-10-23T13:57:37.000Z'
+dateModified: '2015-10-23T09:45:58.812Z'
 title: Plastic Semiotics
+sourcePath: _posts/2015-10-23-plastic-semiotics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-23-plastic-semiotics.md
-published: true
 url: plastic-semiotics/index.html
 _type: Article
 
